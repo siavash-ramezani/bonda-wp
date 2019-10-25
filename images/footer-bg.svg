@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2028.564" height="647.031" viewBox="0 0 2028.564 647.031">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.495" y1="0.269" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#525252"/>
+      <stop offset="0.586" stop-color="#915a61"/>
+      <stop offset="1" stop-color="#ea6676"/>
+    </linearGradient>
+  </defs>
+  <path id="Shape_5_copy_2" data-name="Shape 5 copy 2" d="M1012.055-1363.556l1453.607-631.12c88.886-37.25,196.853-6.867,241.151,67.861l333.806,563.258Z" transform="translate(-1012.055 2010.587)" fill="url(#linear-gradient)"/>
+</svg>
